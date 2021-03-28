@@ -1,0 +1,15 @@
+Oyo-life Japan: 25 Mar 2021
+
+1. Checksum - What is checksum. Its uses and how it determine ?
+2. DB types: Uses scenarios - Rational DB - Oracl, Mysql
+                              Graph DB - Neo4
+                              Documentate DB - Mongo
+                              Wide Column or key-value pair DB - Cassandra
+                              
+3. Optimistic locks vs Pessimistic locks
+4. Issolation level in DB
+5. Gradle vs Maven - 
+6. Authentication of Microservices, API gateways (How would you secure your API which has been exposed to with third party team ?)
+7. Rate limiting and token based service 
+8. Context switches - 
+9. Memory types , Cache L1, L2, L3 uses
